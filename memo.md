@@ -19,3 +19,9 @@ Gitの使い方なんとなくOK
 ぼちぼちとフロント機能を作っていかないといけない。
 
 データベースも必要。
+
+XML2JSONを使ってみる。
+https://qiita.com/aisplay/items/c8d624bd562b5206c927
+
+Git IgnoreでGit管理しないファイル・フォルダーを指定（除外する）
+https://qiita.com/growsic/items/b2965c0ba3b0aaae1ff8
